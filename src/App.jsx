@@ -1,6 +1,6 @@
 //App.jsx
 import './App.css'
-import './Button.jsx'
+
 
 function App(){
   const palavras_chave = ["linux", 
